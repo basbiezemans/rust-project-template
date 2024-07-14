@@ -1,6 +1,11 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust Project Template
+Basic template for a new Rust project.
 
-## References
+## Start a new project
+Run the following command:
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+```bash
+cargo init
+```
+
+This will create a `Cargo.toml` file, and a `src` directory with a `main.rs` file.
